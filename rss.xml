@@ -4,8 +4,15 @@
         <description><![CDATA[Spin Echo | Sky above The Sky | Inspiration & Creation]]></description>
         <link>https://thegrid.ai/skyabovethesky/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 20:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 20:09:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skyabovethesky/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Humans Run the World | Yuval Noah Harari | TED Talks]]></title>
+            <description><![CDATA[<article><h1>Why Humans Run the World | Yuval Noah Harari | TED Talks</h1><p>Seventy thousand years ago, our human ancestors were insignificant animals, just minding their own business in a corner of Africa with all the other animals. But now, few would disagree that humans dominate planet Earth; we've spread to every continent, and our actions determine the fate of other animals (and possibly Earth itself).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26a1b5394c879d5e901088122ac2e8224b852a80.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=nzj7Wg4DAbs</link>
+            <guid isPermaLink="false">60eedd62-02e8-4a30-8e4c-5bcdac4bba56</guid>
+            <pubDate>Sun, 20 Mar 2016 20:08:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A teaser by Spin Echo]]></title>
             <description><![CDATA[<article><h1>A teaser by Spin Echo</h1><p>A teaser of performances played by Spin Echo. (C) 2016 www.spinecho.net contact@spinecho.net We are a collective of creative minds. As curious beings we hail the unknowns and escape the mundane with captivating performances, wild music, gripping dance and raw video. We have fun getting at your senses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90649eac9ed4d15240e8cb11621a284a4f08e0e6.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=Q6CycvRbHfM</link>
             <guid isPermaLink="false">4a453a00-f595-43be-9f73-cf9e22245ae1</guid>
             <pubDate>Sun, 20 Mar 2016 18:43:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turing test - Wikipedia, the free encyclopedia]]></title>
-            <description><![CDATA[<article><h1>Turing test - Wikipedia, the free encyclopedia</h1><p>The test was introduced by Turing in his paper, " Computing Machinery and Intelligence", while working at the University of Manchester (Turing, 1950; p. 460). It opens with the words: "I propose to consider the question, 'Can machines think?'" Because "thinking" is difficult to define, Turing chooses to "replace the question by another, which is closely related to it and is expressed in relatively unambiguous words."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bcd6608b764901c521970d356dbdf92a34377ae1.png"></article>]]></description>
-            <link>https://en.wikipedia.org/wiki/Turing_test</link>
-            <guid isPermaLink="false">fe3980fe-d10a-4203-933a-182d38bbf6b9</guid>
-            <pubDate>Sun, 20 Mar 2016 18:43:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
