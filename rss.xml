@@ -4,8 +4,15 @@
         <description><![CDATA[Spin Echo | Sky above The Sky | Inspiration & Creation]]></description>
         <link>https://thegrid.ai/skyabovethesky/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 20:04:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 20:09:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skyabovethesky/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A teaser by Spin Echo]]></title>
+            <description><![CDATA[<article><h1>A teaser by Spin Echo</h1><p>A teaser of performances played by Spin Echo. (C) 2016 www.spinecho.net contact@spinecho.net We are a collective of creative minds. As curious beings we hail the unknowns and escape the mundane with captivating performances, wild music, gripping dance and raw video. We have fun getting at your senses.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90649eac9ed4d15240e8cb11621a284a4f08e0e6.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=vwj5GX_HhUw</link>
+            <guid isPermaLink="false">d4e015d9-cb7a-4750-819d-d460128b407a</guid>
+            <pubDate>Sun, 20 Mar 2016 20:08:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nick Bostrom: What happens when our computers get smarter than we are?]]></title>
             <description><![CDATA[<article><h1>Nick Bostrom: What happens when our computers get smarter than we are?</h1><p>Artificial intelligence is getting smarter by leaps and bounds - within this century, research suggests, a computer AI could be as "smart" as a human being. And then, says Nick Bostrom, it will overtake us: "Machine intelligence is the last invention that humanity will ever need to make."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/603b2f5604238bcc6cdc88305c590177363ef834.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://en.wikipedia.org/wiki/Turing_test</link>
             <guid isPermaLink="false">fe3980fe-d10a-4203-933a-182d38bbf6b9</guid>
             <pubDate>Sun, 20 Mar 2016 18:43:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DNA Dreams (2013)]]></title>
-            <description><![CDATA[<article><h1>DNA Dreams (2013)</h1><p>What if we could identify the genes that contain information about human intelligence? Would a brave new world of improved human beings be waiting for us? This new world is now in the making in China's Pearl River Delta.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30fce882afa9644b63bd21462158e82a35a51369.jpg"></article>]]></description>
-            <link>https://vimeo.com/58285542</link>
-            <guid isPermaLink="false">d18e3f50-1c61-422f-8626-9b2aa7f3bd51</guid>
-            <pubDate>Sun, 20 Mar 2016 18:28:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
