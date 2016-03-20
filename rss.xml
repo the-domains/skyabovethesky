@@ -4,8 +4,15 @@
         <description><![CDATA[SkyAboveTheSky]]></description>
         <link>https://thegrid.ai/skyabovethesky/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 18:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 18:52:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skyabovethesky/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Will we ever have a theory of everything?]]></title>
+            <description><![CDATA[<article><h1>Will we ever have a theory of everything?</h1><p>The recent film The Theory of Everything tells the story of Stephen Hawking, who managed to become a world-famous physicist despite being confined to a wheelchair by a degenerative disease. It's mostly about his relationship with his ex-wife Jane, but it does find a bit of time to explain what Hawking has spent his career doing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d268fef61700aabcb3518555c79d943b114fec04.jpg"></article>]]></description>
+            <link>http://www.bbc.com/earth/story/20150409-can-science-ever-explain-everything</link>
+            <guid isPermaLink="false">5c4f7d51-00d4-4690-9121-9d3d65e4e8f7</guid>
+            <pubDate>Sun, 20 Mar 2016 18:52:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[cc BLADE RUNNER - Rachel Turing Test]]></title>
             <description><![CDATA[<article><h1>cc BLADE RUNNER - Rachel Turing Test</h1><p>Do you mind if I smoke? It won't affect the test. Alright I'm gonna ask you a series of questions. Just relax, and answer them as simply as you can. . It's your birthday. Someone gives you a calfskin wallet. I wouldn't accept it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bfc149fce1dcc1f878aec7cecf7c479df72d8a0.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/skyabovethesky/6f452875-845e-478c-a7ad-4568276c7d04/index.html</link>
             <guid isPermaLink="false">6f452875-845e-478c-a7ad-4568276c7d04</guid>
             <pubDate>Sat, 19 Mar 2016 00:27:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6yts9yHVKfT93lk5WmmHReaRe94pTyhkb07IDk9JYbvFbutwg">]]></description>
-            <link>https://thegrid.ai/skyabovethesky/7bc012e2-45ae-40d0-91dc-5be781c9463a/index.html</link>
-            <guid isPermaLink="false">7bc012e2-45ae-40d0-91dc-5be781c9463a</guid>
-            <pubDate>Sat, 19 Mar 2016 00:27:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
