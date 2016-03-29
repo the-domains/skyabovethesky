@@ -4,8 +4,15 @@
         <description><![CDATA[Spin Echo | Sky above The Sky | Inspiration & Creation]]></description>
         <link>https://thegrid.ai/skyabovethesky/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 10:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 22:40:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skyabovethesky/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Conversation about reality - My Dinner with Andre]]></title>
+            <description><![CDATA[<article><h1>A Conversation about reality - My Dinner with Andre</h1><p>A Piece taken from the film My Dinner with Andre</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=68JLWyPxt7g</link>
+            <guid isPermaLink="false">e54e7125-fd5c-4872-93bc-07aad50c2e9c</guid>
+            <pubDate>Tue, 29 Mar 2016 22:39:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The greatest scene from Ex Machina]]></title>
             <description><![CDATA[<article><h1>The greatest scene from Ex Machina</h1><p>A clip from Ex Machina (2015) This impromptu dance scene is the most brilliant moment in Ex Machina, and now we can't stop rewatching it. We come from the future! io9.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/677505c40d6ee69cf615d0543304f2215cc6196b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=suikx-XcRP4</link>
             <guid isPermaLink="false">d8419605-264b-465e-9e26-c37d503a981a</guid>
             <pubDate>Sun, 20 Mar 2016 20:18:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Humans Run the World | Yuval Noah Harari | TED Talks]]></title>
-            <description><![CDATA[<article><h1>Why Humans Run the World | Yuval Noah Harari | TED Talks</h1><p>Seventy thousand years ago, our human ancestors were insignificant animals, just minding their own business in a corner of Africa with all the other animals. But now, few would disagree that humans dominate planet Earth; we've spread to every continent, and our actions determine the fate of other animals (and possibly Earth itself).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26a1b5394c879d5e901088122ac2e8224b852a80.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=nzj7Wg4DAbs</link>
-            <guid isPermaLink="false">60eedd62-02e8-4a30-8e4c-5bcdac4bba56</guid>
-            <pubDate>Sun, 20 Mar 2016 20:08:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
